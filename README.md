@@ -1,18 +1,19 @@
 <h1 align="center">Hi, I'm Vanshika Nimwal 👩‍💻</h1>
 
 <p align="center">
-  App Developer | AR/VR Enthusiast | UI/UX Explorer  
+  📱 App Developer | 🕶️ AR/VR Enthusiast | 🎨 UI/UX Explorer  
 </p>
 
 ---
 
 ## 🌟 About Me  
 
-- 📱 Focused on **mobile & cross-platform app development** using Flutter and Java  
-- 🕶️ Exploring **AR/VR technologies** with Unity for immersive experiences  
-- 🎨 Interested in **UI/UX design**, building user-friendly and accessible products  
-- 🚀 Currently learning **React.js**, **Firebase**, and **REST APIs** to strengthen my development stack  
-- 🤝 Open to internships, hackathons, and collaborations in **app dev and AR/VR projects**  
+- 📱 Building **mobile & cross-platform apps** with Flutter and Java  
+- 🕶️ Passionate about **AR/VR** — creating immersive experiences with Unity & Blender  
+- 🎨 Exploring **UI/UX design** — crafting intuitive, user-focused interfaces with Figma  
+- 🚀 Expanding my skillset with **React.js**, **Firebase**, and **REST APIs**  
+- 🧩 Practicing **DSA & problem-solving** consistently on LeetCode and HackerRank  
+- 🤝 Open to collaborations, internships, and hackathons in **app development & AR/VR**  
 
 ---
 
@@ -40,12 +41,12 @@
 
 ---
 
-## 📈 Development Focus  
+## 📈 Focus Areas  
 
-- **App Development** → Flutter, Android Studio, Firebase integrations  
-- **AR/VR** → Building interactive environments with Unity & Blender  
-- **UI/UX** → Wireframing & prototyping with Figma, accessibility-first design  
-- **Problem Solving** → Strengthening DSA with LeetCode & HackerRank  
+- **App Development** → Flutter, Firebase, Android Studio  
+- **AR/VR Development** → Unity, C#, Blender for immersive projects  
+- **UI/UX Design** → Figma, wireframing, prototyping & accessibility  
+- **Problem Solving** → DSA practice on LeetCode & HackerRank  
 
 ---
 
@@ -55,8 +56,27 @@
   <img src="https://leetcard.jacoblin.cool/vanni2005?theme=dark&font=Raleway" width="60%"/>
 </div>  
 
-- 🏆 **50 Days LeetCode Streak Badge** (Consistency achievement)  
-- 🔥 Actively solving problems to improve **DSA & algorithmic thinking**  
+- 🏆 **50 Days LeetCode Streak Badge** — consistency & discipline in problem solving  
+- 🔥 Actively solving to improve **algorithms, data structures, and logic building**  
+
+---
+
+## 📌 Featured Projects  
+
+- 📱 **Mood Journal App** — Flutter app to track and reflect on daily moods  
+- 🕶️ **AR Business Card** — interactive AR experience using Unity & AR Foundation  
+- 🎮 **Reverse Parkour Game** — Unity game where the environment moves instead of the player  
+- 📄 **Resume Maker** — JavaFX desktop app with PDF export (Apache PDFBox)  
+
+---
+
+## 🏅 Certificates & Achievements  
+
+- 🏆 **50 Days LeetCode Streak Badge** — proven consistency in DSA practice  
+- 🎖️ **Hackathon Participation** — HACKHAZARDS '25 & CodeX 2.0 (PIET)  
+- 📜 **Specialization in AR/VR** — focused coursework and projects in immersive tech  
+- 📜 **UI/UX Design with Figma** (self-learning + projects)  
+- 📜 **Flutter & Firebase Basics** (ongoing projects and practice)  
 
 ---
 
@@ -70,4 +90,4 @@
 
 ---
 
-⭐ _Thanks for visiting! Let’s build impactful apps and immersive experiences together._  
+⭐ _Thanks for stopping by! Always excited to build impactful apps and immersive AR/VR experiences._  
